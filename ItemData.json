@@ -1,0 +1,44 @@
+{
+	"items":[
+		{
+			"itemType": 2,
+			"itemName": "Banner",
+			"itemValue": "0"
+		},
+		{
+			"itemType": 2,
+			"itemName": "brokensword",
+			"itemValue": "1"
+		},
+		{
+			"itemType": 2,
+			"itemName": "ornate_spike",
+			"itemValue": "2"
+		},
+		{
+			"itemType": 2,
+			"itemName": "ornate_spike_long",
+			"itemValue": "3"
+		},
+		{
+			"itemType": 2,
+			"itemName": "ornate_sword",
+			"itemValue": "4"
+		},
+		{
+			"itemType": 2,
+			"itemName": "ornate_sword2",
+			"itemValue": "5"
+		},
+		{
+			"itemType": 2,
+			"itemName": "staff_gem",
+			"itemValue": "6"
+		},
+		{
+			"itemType": 2,
+			"itemName": "straightword",
+			"itemValue": "7"
+		}
+	]
+}
